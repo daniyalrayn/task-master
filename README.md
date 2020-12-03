@@ -88,8 +88,6 @@ The output should be something like this:
 
 * Provide any instructions needed to run the automation solution in `README.md`.
 
-* If you have any questions, please don't hesitate to contact us at tech-recruitment@xeneta.com
-
 # Theoretical section
 In this section we are seeking high-level answers, use a maximum of couple of paragraphs to answer the questions.
 
