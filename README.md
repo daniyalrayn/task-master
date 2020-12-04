@@ -80,7 +80,9 @@ The output should be something like this:
 
 ## Extra details
 
-* **Provide the solution as a public git repository that can easily be cloned by our development team.**
+* **Provide the solution in a private git repository that can easily be cloned by the user: daniyalrayn@outlook.com .**
+
+* **If you have any queries regarding the task or need any additional information drop an email to daniyalrayn@outlook.com .**
 
 * The configuration file `rates/config.py` has some defaults that will most likely change depending on the solution. It would be beneficial to have a way of more dynamically pass in config values.
 
